@@ -1,24 +1,20 @@
-# - Binary & Object Files -
-# Ignored because they are generated during compilation
+# Binaries and object files
 *.o
 assembler
 assembler.exe
 
-# - Assembler Output Files -
+# Assembler output
 # results of running my assembler on .as files
 *.ob
 *.ent
 *.ext
 
-# - Operating System & IDE Junk -
-# For macOS 
+# OS junk and temp files
 .DS_Store
-# For Windows 
 Thumbs.db
-# Common backup/temporary files
 *~
 *.swp
 *.swo
 
-# -- Logs -
+# Logs 
 *.log
